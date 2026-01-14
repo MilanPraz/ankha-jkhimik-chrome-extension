@@ -1,9 +1,9 @@
 {
-  "name": "jhimik",
-  "displayName": "Jhimik",
+   "name": "jhimik",
+  "displayName": "Jhimik – Eye Blink Reminder",
   "version": "0.0.1",
-  "description": "this is a extension which will reminde you to blink during your screen time.",
-  "author": "milanpraz",
+  "description": "Jhimik is a lightweight Chrome extension that reminds you to blink regularly during screen time, helping reduce eye strain and promote healthier digital habits.",
+  "author": "Milan Prajapati (milanpraz)",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
